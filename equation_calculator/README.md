@@ -1,3 +1,3 @@
-# general_repo
+# Equation Calculator
 
-this is a general repo!
+This code is a basic equation calculator. 
